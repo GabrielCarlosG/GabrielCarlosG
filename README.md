@@ -15,6 +15,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpEHhAz_Ohuk4AC_0i9KfoA)
 ![GitHub followers](https://img.shields.io/github/followers/GabrielCarlosG)
 
+<a href="https://www.linkedin.com/in/carlos-amorim27/">![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg)</a>
 <a href="https://www.instagram.com/cgtech_consultoria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <!--
 Patreon futuramente = https://www.patreon.com/c/CarlosGabriel447
