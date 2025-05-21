@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ### Backend developer
 
-* I'm Live in Recife
+* I'm living in Recife
 * My portfolio is under construction, but you can see my [GitHub](https://github.com/GabrielCarlosG)
 * Take a look at my [Linkedin](https://www.linkedin.com/in/carlos-amorim27/) too.
 * I am studying systems analysis and development.
