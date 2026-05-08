@@ -14,16 +14,7 @@
 * Estou cursando Análise e Desenvolvimento de Sistemas.
 * Amo Python!
 
-### Skills
-<div>
-   <a href="https://github.com/GabrielCarlosG">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarlosG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarlosG&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 <table><tr>
-
-
 
 ### Frontend  
 <div align="left">  
